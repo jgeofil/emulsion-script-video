@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Emulsion",
+      "hasCanvas": false,
+      "bodyTextLen": 436,
+      "bodyTextHash": "bb2460b312c5de2f080a7b3df05c458b030f7c5f572774c1ce2b722f9e91de38",
+      "bodyTextPrefix": "Emulsion UNTITLED REEL · SCRIPT TO SCREEN Sample reel New Space ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Emulsion",
+      "hasCanvas": false,
+      "bodyTextLen": 430,
+      "bodyTextHash": "70e1f0ff911106a1cfc270df335e598bdafa84a933113032ba066dd6cf52fe73",
+      "bodyTextPrefix": "Emulsion UNTITLED REEL · SCRIPT TO SCREEN Sample reel New 01 Scr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
